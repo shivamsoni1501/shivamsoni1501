@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamsoni1501
 - 👀 I’m interested in Python and application design and development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on prjects building on python
+- 💞️ I’m looking to collaborate on projects building on python
 - 📫 You can reach me at shivamsoni1501@gmail.com
 
 <!---
